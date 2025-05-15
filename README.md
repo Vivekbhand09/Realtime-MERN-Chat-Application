@@ -58,7 +58,7 @@ The app is deployed for free using **Vercel** and is accessible from anywhere. B
 ### 🏠 Home Page (User List & Chat Interface)  
 ![Screenshot 2](2.png)
 
-### 🔍 Profile Page ( Name , photo , bio )
+### 🔍 Profile Page ( Name , Photo , Bio )
 ![Screenshot 3](3.png)
 
 ### ✉️ Manohar (Sender) Sends Message to Deepanshu  
