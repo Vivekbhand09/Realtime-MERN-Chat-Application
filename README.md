@@ -51,7 +51,8 @@ The app is deployed for free using **Vercel** and is accessible from anywhere. B
 
 ---
 ## 📷 Screenshots
-
+### Preview
+![preview].(preview.png)
 ### 🔐 Sign In / Login Page  
 ![Screenshot 1](1.png)
 
